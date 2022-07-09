@@ -12,6 +12,11 @@
 ### About
 
 A forensic analysis framework for enumerating slack artifacts residing in the Operating system.
+Collaborators: 
+1. Madhu VP
+2. Adhityan AK
+3. Bolor-Erdene Jagdagdorj
+4. Keeravani Nagula
 
 ### Features
 
